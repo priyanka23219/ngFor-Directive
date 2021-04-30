@@ -1,4 +1,5 @@
 # NgFor
+![screencapture-localhost-4200-2021-04-30-14_48_11](https://user-images.githubusercontent.com/75573132/116675306-5255be80-a9c3-11eb-949c-80c38d915b4e.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
